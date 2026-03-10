@@ -1,4 +1,5 @@
-# Penguin Analysis
+# Penguin Analysis 
+## Poo
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
@@ -74,5 +75,5 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 ## Authors
 
 [TODO: Add your name here! This is a great first commit.]
-Phoebe Hartley
+Poopy Hartley
 
