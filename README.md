@@ -2,7 +2,7 @@
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
+
 
 
 ## About the Data
@@ -21,12 +21,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 The dataset includes the following morphological measurements:
 
-| Variable | Range |
-|----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+
 
 ## What the Analysis Does
 
