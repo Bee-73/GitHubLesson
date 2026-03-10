@@ -74,5 +74,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 ## Authors
 
 Jake Cosgrave
+And now Phoebe Hartley, I suppose :)
 
 
